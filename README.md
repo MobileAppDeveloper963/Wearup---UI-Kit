@@ -9,6 +9,37 @@
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ✨ WearUp – Trendy Clothing Shopping App ✨
 
 A sleek and modern app for effortless fashion shopping! 🛍️ Browse the latest trends, filter by size, color, and price, and save favorites to your wishlist. Enjoy secure payments, real-time order tracking, and a smooth checkout experience.
