@@ -1,16 +1,8 @@
 # wearup_ui_kit
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 15 Pro - 2025-03-09 at 20 08 02](https://github.com/user-attachments/assets/3cca8ca4-964b-4059-90ac-606f9c504c62)
+![Simulator Screenshot - iPhone 15 Pro - 2025-03-09 at 20 07 54](https://github.com/user-attachments/assets/9bf777a9-d1f0-4ff6-b68e-f3693eeaa1b0)
+![Simulator Screenshot - iPhone 15 Pro - 2025-03-09 at 20 08 30](https://github.com/user-attachments/assets/a31cb7ef-6ae3-4b62-a34e-7ae6c4f11ab2)
+![Simulator Screenshot - iPhone 15 Pro - 2025-03-09 at 20 08 11](https://github.com/user-attachments/assets/23e956cc-c195-43a0-aac2-d6344e71392b)
